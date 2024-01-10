@@ -3,7 +3,6 @@
 ## Objective
 This project aims to create a simple dynamic web application for managing employee details. The application supports CRUD operations (Create, Read, Update, Delete) on an employee table, providing a user-friendly interface for interacting with employee data.
 
-## Project Structure
 
 ### Tools Used
 - **IDE**: Eclipse
