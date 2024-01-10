@@ -6,7 +6,7 @@ This project aims to create a simple dynamic web application for managing employ
 
 ### Tools Used
 - **IDE**: Eclipse
-- **Server**: Apache Tomcat Server
+- **Server**: Apache Tomcat
 - **Browser**: Brave
 - **Database**: MySQL
 - **Programming Language**: Java
